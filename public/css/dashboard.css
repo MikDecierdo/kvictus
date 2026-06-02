@@ -20,7 +20,8 @@ body { display: flex; min-height: 100vh; background: #f1f5f9; }
     display: flex; justify-content: space-between; align-items: center;
     margin-bottom: 32px; padding-bottom: 20px; border-bottom: 1px solid #e2e8f0;
 }
-.header h1 { font-size: 24px; color: #0f172a; }
+.header h1 { font-size: 24px; color: #0f172a; margin-bottom: 4px; }
+.welcome-msg { font-size: 14px; color: #64748b; }
 .header-right { display: flex; align-items: center; gap: 20px; }
 .header-right i { font-size: 18px; color: #64748b; cursor: pointer; }
 .avatar {

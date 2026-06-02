@@ -22,7 +22,10 @@
 
     <div class="main">
         <div class="header">
-            <h1>Dashboard</h1>
+            <div>
+                <h1>Dashboard</h1>
+                <p class="welcome-msg">Welcome back, Kim! Here&rsquo;s what&rsquo;s happening today.</p>
+            </div>
             <div class="header-right">
                 <i class="fas fa-bell"></i>
                 <i class="fas fa-envelope"></i>
@@ -60,8 +63,6 @@
                 <div style="display:grid;grid-template-columns:1fr 1fr;gap:12px;">
                     <div class="brand-item"><i class="fa-brands fa-accessible-icon"></i><span>Accessible</span></div>
                     <div class="brand-item"><i class="fa-brands fa-apple"></i><span>Apple</span></div>
-                    <div class="brand-item"><i class="fa-brands fa-arch-linux"></i><span>Arch Linux</span></div>
-                    <div class="brand-item"><i class="fa-brands fa-angular"></i><span>Angular</span></div>
                     <div class="brand-item"><i class="fa-brands fa-angellist"></i><span>AngelList</span></div>
                     <div class="brand-item"><i class="fa-brands fa-android"></i><span>Android</span></div>
                     <div class="brand-item"><i class="fa-brands fa-aws"></i><span>AWS</span></div>
